@@ -1,0 +1,23 @@
+{"Services":[
+    {
+"image":"https://static.wixstatic.com/media/8ddee6_5a4edafa3c17407e970c7361b308616d~mv2.jpg/v1/fill/w_582,h_600,fp_0.50_0.50,q_80,enc_auto/8ddee6_5a4edafa3c17407e970c7361b308616d~mv2.jpg",
+    "title":"BrainBoost Tutoring: ",
+    "description":"Unlock your child's full potential with BrainBoost Tutoring. Our experienced educators provide personalized tutoring sessions tailored to your child's learning style and academic needs. Whether it's mastering difficult subjects, preparing for exams, or building essential study skills, trust BrainBoost to ignite a passion for learning and foster academic success.",
+    },
+    {
+    "image":"https://www.creativemindspcs.org/wp-content/uploads/2017/07/cmi-logo.svg",
+    "title":"Creative Minds After-School Program: ",
+    "description":"Nurture your child's creativity and curiosity with our Creative Minds After-School Program. Our engaging curriculum offers a dynamic blend of arts, sciences, and hands-on activities designed to inspire young minds. From painting and robotics to storytelling and experiments, ignite your child's imagination and cultivate a lifelong love for learning with our enriching after-school program.",
+    },
+    {
+    "image":"https://healthybitesstore.com/storage/settings/OxflAm82DQ9J7k62Z3KAHGVCDah8neNTg8IJFzMx.png",
+    "title":"HealthyBites Cafeteria: ",
+    "description":"Elevate your school's dining experience with HealthyBites Cafeteria. Our nutritious and delicious menu options are carefully crafted to fuel young minds and bodies. From fresh salads to wholesome entrees and tasty snacks, we prioritize quality ingredients and balanced meals to promote student well-being and academic performance.",
+    },
+    {
+    "image":"https://www-s3-live.kent.edu/s3fs-root/s3fs-public/Summer2022_CAPS__Modelv2.png?VersionId=NZsZqopY2ubzqXrBJI1aLeEBiiEsPSEA",
+    "title":"CampusConnections Counseling: ",
+    "description":"Support student well-being with CampusConnections Counseling. Our team of licensed counselors provides a safe and confidential space for students to explore their emotions, navigate challenges, and develop essential coping skills. From individual sessions to group workshops, we foster a culture of mental wellness and resilience within the school community.",
+    }
+  ]
+}
